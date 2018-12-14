@@ -1,7 +1,7 @@
 package gameOfLife;
 
 import java.util.List;
-
+ 
 public class World {
     private final int xSize;
     private final int ySize;
